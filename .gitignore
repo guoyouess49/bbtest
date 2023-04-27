@@ -10,6 +10,9 @@
 /front/node_modules
 /back/dist
 /front/dist
+/front/.angular/cache
+/front/.vscode/*
+
 # Node
 /node_modules
 npm-debug.log
